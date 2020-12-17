@@ -1,6 +1,28 @@
----
-layout: layouts/base.njk
-section: home
----
+<!doctype html>
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
 
-{{ layoutContent | safe }}
+	{% include "components/head.njk" %}
+
+	<body>
+
+		<header>
+			{% include "components/nav.njk" %}
+
+			<a class="logo" href="{{ '/' | url }}">{% include "static/img/logo-bientanbien.svg" %}</a>
+
+		</header>
+
+		<main class="home">
+			<div class="intro">
+				<h1>{{ intro }}</h1>
+			</div>
+
+
+			{{ layoutContent | safe }}
+		</main>
+
+		{% include "components/footer.njk" %}
+
+	</body>
+
+</html>

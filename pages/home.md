@@ -1,22 +1,22 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Bien tan bien - Agencia de Facebook Ads
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
+intro: Haremos que tu marca crezca online con Facebook Ads
 ---
-# Cómo se llama
 
-¿Dónde estará el home?
+Lanzar una campaña de Ads no es suficiente para hacer crecer una marca. Bien tan bien optimiza tu presupuesto para que tengas la confianza de tener el mejor ROI posible
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+Bien tan bien te ayudará a definir tus metas para crear una estrategia de Facebook Ads que acelere el crecimiento de tu marca
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+## ¿Cómo lo hacemos?
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+Parece que Facebook cambia la reglas todos los días: Más competencia, nuevas reglas, opciones que desaparecen, etc. Hacer campañas en Facebook cada día es más dificil.
 
-Or click the button below to deploy your own copy of this project to Netlify.
+Facebook Ads sigue siendo la manera más económica y efectiva de crecer online pero es difícil mantener al día con todos los cambios.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Bien tan bien es una agencia de Facebook e Instagram Ads dedicada a optimizar tu inversión en facebook.

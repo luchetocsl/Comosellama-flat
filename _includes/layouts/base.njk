@@ -6,10 +6,13 @@
 	<body>
 
 		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
 			{% include "components/nav.njk" %}
+
+			<div class="logo">
+				<a class="logo-img" href="{{ '/' | url }}">{% include "static/img/logo-bientanbien.svg" %}</a>
+			</div>
+
+
 		</header>
 
 		<main>
